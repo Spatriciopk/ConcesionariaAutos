@@ -1,0 +1,4 @@
+Codigo: vehiculo-1
+Modelo: J1254
+Marca: Kia
+Precio: 18000.0
